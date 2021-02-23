@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 :seedling: I'm becoming vegan since 2020, but I'm vegetarian since the end of 2012. <br />
 :computer: I graduated last year from Computer Science! <br />
 :deciduous_tree: I am also studying licenciatura in Biological Sciences. <br />
+:email: Talk with me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-ambrosiaandrade-blue)](https://www.linkedin.com/in/ambrosiaandrade/) 
 
 --------------
 
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 :seedling: Estou me tornando vegana desde 2020, mas sou vegetariana desde o final de 2012. <br />
 :computer: Eu me graduei em Ciência da Computação ano passado! <br />
 :deciduous_tree: Eu também faço licenciatura em Ciências Biológicas. <br />
+:email: Fale comigo: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-ambrosiaandrade-blue)](https://www.linkedin.com/in/ambrosiaandrade/) 
