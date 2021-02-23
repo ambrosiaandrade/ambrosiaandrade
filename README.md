@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Ambrósia Andrade
 
-================
+-------------------
 
 ## Hi there 👋 [EN-EN]
 
