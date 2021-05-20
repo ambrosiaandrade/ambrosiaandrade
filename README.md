@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### About technology:
 
 :books: I'm studying to become a Full Stack Developer! <br />
-:notebook: I'm currently learning Angular and Ionic. <br />
+:notebook: I'm currently learning Angular, Java & Javascript. <br />
 :dart: My projects at the moment are related to educational purposes, I want to help students and teachers to achieve a better learning process. <br />
 
 ### Other information about me:
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### Sobre tecnologia:
 
 :books: Eu estou estudando para me tornar uma Desenvolvedora Full Stack! <br />
-:notebook: Estou aprendendo atualmente Angular e Ionic. <br />
+:notebook: Estou aprendendo atualmente Angular, Java & Javascript. <br />
 :dart: Meus projetos no momento estão relacionados à educação, eu quero ajudar os estudantes e professores a obterem um melhor processo de aprendizagem. <br />
 
 ### Outras informações sobre mim:
