@@ -2,7 +2,7 @@
 :earth_americas: I'm from Brazil, Pernambuco state. <br />
 :computer: I'm studying to become a Full Stack Developer! <br />
 :seedling: I'm vegetarian since the end of 2012. <br />
-:books: I studied Computer Science but I am also currently studying in Biological Sciences <br />
+:books: I studied Computer Science but I am also currently studying Biological Sciences <br />
 :dart: My projects at the moment are related to educational purposes, I want to help students and teachers to achieve a better learning process. <br />
 
 ### Languages and Tools
