@@ -1,9 +1,8 @@
 ### About me
-:earth_americas: I'm from Brazil, Pernambuco state. <br />
-:computer: I'm studying to become a Full Stack Developer! <br />
-:seedling: I'm vegetarian since the end of 2012. <br />
-:books: I studied Computer Science but I am also currently studying Biological Sciences <br />
-:dart: My projects at the moment are related to educational purposes, I want to help students and teachers to achieve a better learning process. <br />
+:earth_americas: From Brazil, Pernambuco state. <br />
+:computer: Backend Developer! <br />
+:seedling: Vegetarian since the end of 2012. <br />
+:books: Studied computer science and I have a MBA in fullstack development<br />
 
 ### Languages and Tools
 <div>
@@ -30,6 +29,7 @@
   
   <table>
     <tbody>
+      <!-- 
       <tr>
         <td>Front-End</td>
         <td>
@@ -42,6 +42,7 @@
         </td>
       </tr>
       <tr>
+      -->
         <td>Back-End</td>
         <td>
           <img height="35" width="45" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -52,6 +53,7 @@
         <td>Database</td>
         <td>
           <img height="35" width="45" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+          <img height="35" width="45" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
         </td>
       </tr>
       <tr>
