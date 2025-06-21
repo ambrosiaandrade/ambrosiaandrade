@@ -1,83 +1,34 @@
-### About me
-:earth_americas: From Brazil, Pernambuco state. <br />
-:computer: Backend Developer! <br />
-:seedling: Vegetarian since the end of 2012. <br />
-:books: Studied computer science and I have a MBA in fullstack development<br />
+# Hi, I'm Ambrósia Andrade 👋
 
-### Languages and Tools
-<div>
-<!--   <h6>Front-end</h6>
-  <img height="35" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img height="35" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img height="35" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img height="35" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img height="35" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="35" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <br/>
-  <h6>Back-end</h6>
-  <img height="35" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="35" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <br/>
-  <h6>Database</h6>
-  <img height="35" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <br/>
-  <h6>Tools</h6>
-  <img height="35" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img height="35" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="35" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="35" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> -->
-  
-  <table>
-    <tbody>
-      <!-- 
-      <tr>
-        <td>Front-End</td>
-        <td>
-          <img height="35" width="45" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-          <img height="35" width="45" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-          <img height="35" width="45" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-          <img height="35" width="45" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-          <img height="35" width="45" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          <img height="35" width="45" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-        </td>
-      </tr>
-      <tr>
-      -->
-        <td>Back-End</td>
-        <td>
-          <img height="35" width="45" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          <img height="35" width="45" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        </td>
-      </tr>
-      <tr>
-        <td>Database</td>
-        <td>
-          <img height="35" width="45" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-          <img height="35" width="45" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-        </td>
-      </tr>
-      <tr>
-        <td>Tools</td>
-        <td>
-          <img height="35" width="45" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-          <img height="35" width="45" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          <img height="35" width="45" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          <img height="35" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-        </td>
-      </tr>      
-    </tbody>
-  </table>
-</div>
+I'm a passionate software developer focused on building robust, scalable, and modern applications.  
+Currently, I'm learning **Python** and expanding my skills beyond Java and Spring Boot.
 
-### GitHub stats
-<div align="">
-  <a href="https://github.com/ambrosiaandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambrosiaandrade&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrosiaandrade&layout=compact&langs_count=7&theme=buefy"/>
-</div>
-   
-### Social media
+## 🚀 Featured Project
 
-<div>
-    <a href="https://www.linkedin.com/in/ambrosiaandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+### [Pet Project](https://github.com/ambrosiaandrade/pets)
+A modern Spring Boot RESTful API following MVC architecture, featuring Kafka, Docker, automated testing, and CI/CD with GitHub Actions.  
+This is my main start project at the moment—check it out!
+
+## 🛠️ Tech Stack
+
+- Java, Spring Boot, Kafka, Docker
+- JUnit 5, Mockito, JaCoCo
+- Maven, GitHub Actions
+- Python (learning)
+
+## 📫 Connect with me
+
+[![GitHub][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
+[![Instagram][instagram-shield]][instagram-url]
+
+<!-- SHIELDS -->
+[github-shield]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[github-url]: https://github.com/ambrosiaandrade
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
+[linkedin-url]: https://linkedin.com/in/ambrosiaandrade
+[gmail-shield]: https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:ambrosiaandrade.pe@gmail.com
+[instagram-shield]: https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/ambrosia_andrade_br/
