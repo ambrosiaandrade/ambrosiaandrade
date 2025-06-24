@@ -21,13 +21,14 @@ A modern Spring Boot RESTful API following MVC architecture, featuring Kafka int
 I'm working on a series of **focused, practical case studies** to explore backend topics in depth:
 
 | Project | Description | Status |
-|--------|-------------|--------|
-| **🔐 Auth Service** | JWT + OAuth2 + Spring Security with encryption/decryption strategies | 🧪 In Progress |
+|--------|-----------|--------|
 | **🧩 Design Patterns Lab** | Hands-on examples using Strategy, Factory, Observer, etc. | 🔜 Planned |
 | **📊 Data Modeling Demo** | Complex @OneToMany, @ManyToMany, UML diagrams, SQL & NoSQL integration | 🔜 Planned |
+| **🔐 Auth Service** | JWT + OAuth2 + Spring Security with encryption/decryption strategies | 🔜 Planned |
 | **🛡️ Resilience Service** | Circuit Breaker with Resilience4j and fallback strategies | 🔜 Planned |
-| **🚨 Alarm Threshold API** | Trigger alerts when system thresholds (limits) are crossed | 🔜 Planned |
 | **📦 Microservices Toolbox** | Communication via REST/Kafka, service discovery, config server | 🔜 Planned |
+| **📦 Communication Architectures** | REST, GraphQL, gRPC, WebSocket, Webhook, SOAP — all in one case study with Spring Boot | 🔜 Planned |
+| **🚨 Alarm Threshold API** | Trigger alerts when system thresholds (limits) are crossed | 🔜 Planned |
 
 ---
 
