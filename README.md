@@ -14,6 +14,11 @@ A modern Spring Boot RESTful API following MVC architecture, featuring Kafka int
 
 > This is my main base project for experimentation and architecture demos.
 
+### [📚 Projeto de Documentação (em Português)](https://github.com/ambrosiaandrade/documentacao)  
+Projeto dedicado a organizar e detalhar documentações técnicas em português sobre diversas tecnologias backend (Spring, Kafka, Docker, testes, etc).  
+📝 Conteúdo bem estruturado para facilitar o aprendizado e servir como referência para desenvolvedores e recrutadores.  
+🌎 Totalmente em português, ideal para a comunidade brasileira.
+
 ---
 
 ## 🧠 Study Projects (Coming Soon)
