@@ -27,7 +27,7 @@ I'm working on a series of **focused, practical case studies** to explore backen
 
 | Project | Description | Status |
 |--------|-----------|--------|
-| **☕ Java Lab** | Practical exploration of core Java features (Streams, Lambdas, Collections, Records, etc.) | 🧪 In Progress |
+| **[☕ Java Lab](https://github.com/ambrosiaandrade/java-lab/tree/main)** | Practical exploration of core Java features (Streams, Lambdas, Collections, Records, etc.) | 🧪 In Progress |
 | **🧩 Design Patterns Lab** | Hands-on examples using Strategy, Factory, Observer, etc. | 🔜 Planned |
 | **📊 Data Modeling Demo** | Complex @OneToMany, @ManyToMany, UML diagrams, SQL & NoSQL integration | 🔜 Planned |
 | **🔐 Auth Service** | JWT + OAuth2 + Spring Security with encryption/decryption strategies | 🔜 Planned |
